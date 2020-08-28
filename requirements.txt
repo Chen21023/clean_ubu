@@ -1,0 +1,4 @@
+sklearn-json=0.1.0
+python-igraph=0.8.2
+plotly=4.9.0
+pydotplus=2.0.2
